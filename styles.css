@@ -1,0 +1,97 @@
+body {
+    text-align: center;
+    background-color: black;
+    color:white;
+}
+
+.instant-treasure {
+    background: black;
+    border: solid;
+    color: black;
+}
+
+h1 {
+    color: yellow;
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    width: 500px;
+    border: 20px solid #fff176;
+}
+
+strong {
+    color: #ffee58;
+}
+
+.one {
+    
+}
+
+.spilled {
+    display: none;
+}
+
+#towel {
+    color: #6495ed;
+    background-color: pink;
+    border: 10px outset #add8e6;
+    font-size: 30px;
+}
+
+.towel {
+    display: none;
+}
+
+.clean {
+    display: none;
+}
+
+#clean {
+    color: #ffff1a;
+    background-color: #999900;
+    border: 10px outset #ffffe6;
+    font-size: 30px;
+}
+
+.pour {
+    display: none;
+}
+
+#drink {
+    color: #ffb3b3;
+    background-color: #b30000;
+    border: 10px outset #660000;
+    font-size: 30px;
+}
+
+.drink {
+    display: none;
+}
+
+.fly {
+    display: none;
+}
+
+#fly {
+    color: #ccffee;
+    background-color: #008055;
+    border: 10px outset #003322;
+    font-size: 30px;
+}
+
+.cat {
+    display: none;
+}
+
+.treasure {
+    display: none;
+}
+
+.t {
+    font-size: 39px;
+}
